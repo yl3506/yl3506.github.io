@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, New York University, 2020
+* B.S. in Computer Science, New York University, 2020
+* Ph.D in Cognition, Brain, and Behavior, Harvard University, 2025 (expected)
 
 Work experience
 ======
