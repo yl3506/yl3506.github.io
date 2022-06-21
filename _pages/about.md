@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 This website is still under development.
-I am interested in computational cognitive science and artificial intelligence.
+
+I am Yichen Li, a PhD student at Harvard University, studying Brain, Cognition, and Behavior in Psychology. I am interested in computational cognitive science and artificial intelligence.
