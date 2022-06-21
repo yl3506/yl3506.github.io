@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yichen Li"
   avatar           : "profile.png"
-  bio              : "PhD student at Harvard University, interested in computational cognitive science and artificial intelligence."
+  bio              : "PhD student at Harvard University, studying Cogintion, Brain, and Behavior."
   location         : "Cambridge, Massachusetts"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X6rrR7gAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
