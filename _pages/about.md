@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Yichen Li's personal website. Work stil in progress.
+This website is still under development.
+I am interested in computational cognitive science and artificial intelligence.
